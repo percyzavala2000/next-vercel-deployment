@@ -1,0 +1,8 @@
+.menu-container a {
+    margin-right: 3rem;
+}
+.active {
+   color: #ca0717;
+   text-decoration: underline;
+
+}
